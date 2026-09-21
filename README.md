@@ -3,8 +3,8 @@
 Practicing Git branches
 Practicing pull requests
 Practicing rebasing
-Git activity line six
-Git activity line seven
+Eric Nguyen
+Eric Nguyen
 Practicing merge conflicts
 Practicing continuous integration
 Waxwing team repository
