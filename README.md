@@ -3,7 +3,7 @@
 Practicing Git branches
 Practicing pull requests
 Practicing rebasing
-Git activity line six
+Eric Nguyen
 Git activity line seven
 Practicing merge conflicts
 Practicing continuous integration
