@@ -8,3 +8,4 @@ Git activity line seven
 Practicing merge conflicts
 Practicing continuous integration
 Waxwing team repository
+
