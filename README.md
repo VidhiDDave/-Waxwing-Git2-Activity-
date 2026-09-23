@@ -4,7 +4,6 @@ Practicing Git branches
 Practicing pull requests
 Practicing rebasing
 Minh Han
-Git activity line six
 Git activity line seven
 Practicing merge conflicts
 Practicing continuous integration
