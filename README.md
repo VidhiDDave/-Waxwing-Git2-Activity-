@@ -4,7 +4,7 @@ Practicing Git branches
 Practicing pull requests
 Practicing rebasing
 Minh Han
-Git activity line seven
+Minh Han
 Practicing merge conflicts
 Practicing continuous integration
 Waxwing team repository
